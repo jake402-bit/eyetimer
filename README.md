@@ -107,11 +107,6 @@ and UI polish are all appreciated. See
 [`locales/README.md`](locales/README.md) for the translation
 workflow.
 
-## License
-
-Add your license of choice (MIT is a common pick for small utilities
-like this one) as a `LICENSE` file in the repository root.
-
 ---
 ---
 
@@ -211,9 +206,3 @@ Segnalazioni e pull request sono benvenute — nuovi file di traduzione,
 correzioni di bug e miglioramenti all'interfaccia sono tutti
 apprezzati. Vedi [`locales/README.md`](locales/README.md) per il
 flusso di lavoro delle traduzioni.
-
-## Licenza
-
-Aggiungi la licenza che preferisci (MIT è una scelta comune per
-un'utility di queste dimensioni) come file `LICENSE` nella root del
-repository.
