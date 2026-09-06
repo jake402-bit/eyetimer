@@ -1,0 +1,22 @@
+{
+  "lang_name": "Français",
+  "app_title": "Minuteur Oculaire 20-20-20",
+  "header_title": "Minuteur Oculaire",
+  "subtitle": "Toutes les {min} minutes, regardez quelque chose à 6 mètres pendant 20 secondes",
+  "duration_label": "Durée :",
+  "minutes_label": "minutes",
+  "status_ready": "Prêt à commencer",
+  "status_running": "Compte à rebours...",
+  "status_paused": "En pause",
+  "status_alert": "Pause de 20 secondes !",
+  "btn_start": "Démarrer",
+  "btn_pause": "Pause",
+  "btn_reset": "Réinitialiser",
+  "footer_hint": "Astuce : clignez souvent des yeux en regardant l'écran",
+  "dialog_title": "Temps de pause",
+  "dialog_heading": "C'est l'heure de la pause !",
+  "dialog_body": "Regardez quelque chose à 6 mètres\npendant 20 secondes.",
+  "dialog_ok": "Terminé",
+  "notif_title": "Minuteur Oculaire",
+  "notif_body": "Regardez quelque chose à 6 mètres (20 pieds) pendant 20 secondes."
+}

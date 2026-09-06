@@ -1,0 +1,22 @@
+{
+  "lang_name": "Italiano",
+  "app_title": "Timer Occhi 20-20-20",
+  "header_title": "Timer Occhi",
+  "subtitle": "Ogni {min} minuti, guarda a 6 metri per 20 secondi",
+  "duration_label": "Durata:",
+  "minutes_label": "minuti",
+  "status_ready": "Pronto a partire",
+  "status_running": "In conto alla rovescia...",
+  "status_paused": "In pausa",
+  "status_alert": "Pausa di 20 secondi!",
+  "btn_start": "Avvia",
+  "btn_pause": "Pausa",
+  "btn_reset": "Reset",
+  "footer_hint": "Suggerimento: sbatti le palpebre spesso mentre guardi lo schermo",
+  "dialog_title": "Tempo di pausa",
+  "dialog_heading": "E' ora della pausa!",
+  "dialog_body": "Guarda qualcosa a 6 metri di distanza\nper 20 secondi.",
+  "dialog_ok": "Fatto",
+  "notif_title": "Timer Occhi",
+  "notif_body": "Guarda qualcosa a 6 metri (20 piedi) per 20 secondi."
+}

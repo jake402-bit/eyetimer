@@ -1,0 +1,22 @@
+{
+  "lang_name": "English",
+  "app_title": "20-20-20 Eye Timer",
+  "header_title": "Eye Timer",
+  "subtitle": "Every {min} minutes, look at something 20 feet away for 20 seconds",
+  "duration_label": "Duration:",
+  "minutes_label": "minutes",
+  "status_ready": "Ready to start",
+  "status_running": "Counting down...",
+  "status_paused": "Paused",
+  "status_alert": "20-second break!",
+  "btn_start": "Start",
+  "btn_pause": "Pause",
+  "btn_reset": "Reset",
+  "footer_hint": "Tip: blink often while looking at the screen",
+  "dialog_title": "Break time",
+  "dialog_heading": "Time for a break!",
+  "dialog_body": "Look at something 20 feet (6 meters) away\nfor 20 seconds.",
+  "dialog_ok": "Done",
+  "notif_title": "Eye Timer",
+  "notif_body": "Look at something 20 feet (6 meters) away for 20 seconds."
+}

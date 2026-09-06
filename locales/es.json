@@ -1,0 +1,22 @@
+{
+  "lang_name": "Español",
+  "app_title": "Temporizador de Ojos 20-20-20",
+  "header_title": "Temporizador de Ojos",
+  "subtitle": "Cada {min} minutos, mira algo a 6 metros durante 20 segundos",
+  "duration_label": "Duración:",
+  "minutes_label": "minutos",
+  "status_ready": "Listo para empezar",
+  "status_running": "Cuenta regresiva...",
+  "status_paused": "En pausa",
+  "status_alert": "¡Descanso de 20 segundos!",
+  "btn_start": "Iniciar",
+  "btn_pause": "Pausa",
+  "btn_reset": "Reiniciar",
+  "footer_hint": "Consejo: parpadea a menudo mientras miras la pantalla",
+  "dialog_title": "Hora del descanso",
+  "dialog_heading": "¡Es hora de descansar!",
+  "dialog_body": "Mira algo a 6 metros de distancia\ndurante 20 segundos.",
+  "dialog_ok": "Hecho",
+  "notif_title": "Temporizador de Ojos",
+  "notif_body": "Mira algo a 6 metros (20 pies) de distancia durante 20 segundos."
+}

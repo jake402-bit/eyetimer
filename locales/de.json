@@ -1,0 +1,22 @@
+{
+  "lang_name": "Deutsch",
+  "app_title": "20-20-20 Augen-Timer",
+  "header_title": "Augen-Timer",
+  "subtitle": "Alle {min} Minuten 20 Sekunden lang auf etwas 6 Meter entfernt schauen",
+  "duration_label": "Dauer:",
+  "minutes_label": "Minuten",
+  "status_ready": "Bereit zum Start",
+  "status_running": "Countdown läuft...",
+  "status_paused": "Pausiert",
+  "status_alert": "20-Sekunden-Pause!",
+  "btn_start": "Start",
+  "btn_pause": "Pause",
+  "btn_reset": "Zurücksetzen",
+  "footer_hint": "Tipp: Blinzle oft, während du auf den Bildschirm schaust",
+  "dialog_title": "Pausenzeit",
+  "dialog_heading": "Zeit für eine Pause!",
+  "dialog_body": "Schau 20 Sekunden lang auf etwas,\ndas 6 Meter entfernt ist.",
+  "dialog_ok": "Fertig",
+  "notif_title": "Augen-Timer",
+  "notif_body": "Schau 20 Sekunden lang auf etwas, das 6 Meter (20 Fuß) entfernt ist."
+}
